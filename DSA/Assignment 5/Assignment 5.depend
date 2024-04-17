@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681800794 source:c:\users\hp\documents\data struct. lab\assignment 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

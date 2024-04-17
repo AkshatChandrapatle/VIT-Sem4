@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677570718 source:c:\users\hp\documents\data struct. lab\queueassign\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

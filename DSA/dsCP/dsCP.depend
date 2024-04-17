@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684087738 source:c:\users\hp\documents\data struct. lab\dscp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
