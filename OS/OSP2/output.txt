@@ -1,0 +1,14 @@
+
+
+ terminated abnormally due to Operation Code Error
+IC=2, IR=XS10, C=0, R=, TTL=25, TTC=2, TLL=6, LLC=0
+
+ terminated abnormally due to Invalid Page Fault
+IC=2, IR=PD20, C=0, R=, TTL=25, TTC=1, TLL=4, LLC=0BAT DAT
+
+
+ terminated abnormally due to Time Limit Exceeded
+IC=8, IR=SR40RAT, C=0, R=RAT, TTL=10, TTC=10, TLL=2, LLC=1
+
+ terminated abnormally due to Operand Error
+IC=4, IR=SR7A TO, C=0, R= TO, TTL=20, TTC=5, TLL=10, LLC=0

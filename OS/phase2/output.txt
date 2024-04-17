@@ -1,0 +1,68 @@
+HELLO WORLD!
+-----------------------------------------------------------------------------------
+
+program terminated normally
+
+SI = 3  TI =0  PI=0
+TTC = 3  LLC=1
+
+**** Operand error : ***
+*** Program terminated abnormally. ****
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+**** Operand error : ***
+*** Program terminated abnormally. ****
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+**** Operand error : ***
+*** Program terminated abnormally. ****
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+**** Operand error : ***
+*** Program terminated abnormally. ****
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+**** Operand error : ***
+*** Program terminated abnormally. ****
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+**** Operand error : ***
+*** Program terminated abnormally. ****
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+**** Operand error : ***
+*** Program terminated abnormally. ****
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+SI = 3  TI =0  PI=2
+TTC = 3  LLC=1
+
+**** Operand error : ***
+*** Program terminated abnormally. ****
+SI = 1  TI =0  PI=2
+TTC = 2  LLC=0

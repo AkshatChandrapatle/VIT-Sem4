@@ -1,0 +1,19 @@
+
+
+ terminated abnormally due to Time Limit Exceeded
+IC=1, IR=GD10%, C=0, R=%, TTL=0, TTC=0, TLL=0, LLC=0
+
+ terminated abnormally due to Operand Error
+IC=1, IR=GD1o%, C=0, R=%, TTL=0, TTC=0, TLL=0, LLC=0
+
+ terminated abnormally due to Time Limit Exceeded
+IC=1, IR=GD10%, C=0, R=%, TTL=0, TTC=0, TLL=0, LLC=0
+
+ terminated abnormally due to Time Limit Exceeded
+IC=1, IR=GD10%, C=0, R=%, TTL=0, TTC=0, TLL=0, LLC=0
+
+ terminated abnormally due to Time Limit Exceeded
+IC=1, IR=GD10%, C=0, R=%, TTL=0, TTC=0, TLL=0, LLC=0
+
+ terminated abnormally due to Time Limit Exceeded
+IC=1, IR=GD10%, C=0, R=%, TTL=0, TTC=0, TLL=0, LLC=0

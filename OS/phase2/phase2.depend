@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1684258779 source:c:\users\hp\documents\data struct. lab\phase2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<string.h>
+
